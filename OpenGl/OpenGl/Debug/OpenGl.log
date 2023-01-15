@@ -1,0 +1,15 @@
+﻿  midpoint.cpp
+midpoint.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: _main already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float x2" (?x2@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float y2" (?y2@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float m" (?m@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float i" (?i@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float j" (?j@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "float p" (?p@@3MA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "int dx" (?dx@@3HA) already defined in Bresenhams.obj
+midpoint.obj : error LNK2005: "int dy" (?dy@@3HA) already defined in Bresenhams.obj
+Source.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in Bresenhams.obj
+Source.obj : error LNK2005: _main already defined in Bresenhams.obj
+C:\Users\risfa\source\repos\OpenGl\Debug\OpenGl.exe : fatal error LNK1169: one or more multiply defined symbols found

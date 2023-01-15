@@ -1,0 +1,93 @@
+﻿  Source.cpp
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(44,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(427,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(440,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(492,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(493,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(497,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(502,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(503,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(504,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(495,19): warning C4101: 'nz': unreferenced local variable
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(531,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(587,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(970,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(983,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1035,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1036,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1040,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1045,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1046,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1047,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1038,19): warning C4101: 'nz': unreferenced local variable
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1074,21): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1130,25): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1513,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1526,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1578,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1579,17): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1583,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1588,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1589,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1590,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1581,19): warning C4101: 'nz': unreferenced local variable
+C:\Users\risfa\source\repos\Graphics_Lab\Source.cpp(1617,21): warning C4305: '=': truncation from 'double' to 'float'
+Source1.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ) already defined in Source.obj
+Source1.obj : error LNK2005: main already defined in Source.obj
+Source2.obj : error LNK2005: "void __cdecl display(void)" (?display@@YAXXZ) already defined in Source1.obj
+Source2.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ) already defined in Source.obj
+Source2.obj : error LNK2005: main already defined in Source.obj
+Source2.obj : error LNK2005: "float x2" (?x2@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "float y2" (?y2@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "float m" (?m@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "float i" (?i@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "float j" (?j@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "float p" (?p@@3MA) already defined in Source1.obj
+Source2.obj : error LNK2005: "int dx" (?dx@@3HA) already defined in Source1.obj
+Source2.obj : error LNK2005: "int dy" (?dy@@3HA) already defined in Source1.obj
+Source3.obj : error LNK2005: "void __cdecl Light1(void)" (?Light1@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl Light2(void)" (?Light2@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl Light(void)" (?Light@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl draw1(void)" (?draw1@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl draw2(void)" (?draw2@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl draw(void)" (?draw@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl init1(void)" (?init1@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl init2(void)" (?init2@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl init(void)" (?init@@YAXXZ) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl keyboardkey1(int,int,int)" (?keyboardkey1@@YAXHHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl keyboardkey2(int,int,int)" (?keyboardkey2@@YAXHHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl keyboardkey(int,int,int)" (?keyboardkey@@YAXHHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "int __cdecl main1(int,char * *)" (?main1@@YAHHPEAPEAD@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "int __cdecl main2(int,char * *)" (?main2@@YAHHPEAPEAD@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl resize1(int,int)" (?resize1@@YAXHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl resize2(int,int)" (?resize2@@YAXHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl resize(int,int)" (?resize@@YAXHH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl timer1(int)" (?timer1@@YAXH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl timer2(int)" (?timer2@@YAXH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: "void __cdecl timer(int)" (?timer@@YAXH@Z) already defined in Source.obj
+Source3.obj : error LNK2005: main already defined in Source.obj
+Source3.obj : error LNK2005: "float angle" (?angle@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL1" (?posL1@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL2" (?posL2@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL3" (?posL3@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float R" (?R@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float G" (?G@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float B" (?B@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "int night" (?night@@3HA) already defined in Source.obj
+Source3.obj : error LNK2005: "float angle1" (?angle1@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL11" (?posL11@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL21" (?posL21@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL31" (?posL31@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float R1" (?R1@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float G1" (?G1@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float B1" (?B1@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "int night1" (?night1@@3HA) already defined in Source.obj
+Source3.obj : error LNK2005: "float angle2" (?angle2@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL12" (?posL12@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL22" (?posL22@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float posL32" (?posL32@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float R2" (?R2@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float G2" (?G2@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "float B2" (?B2@@3MA) already defined in Source.obj
+Source3.obj : error LNK2005: "int night2" (?night2@@3HA) already defined in Source.obj
+C:\Users\risfa\source\repos\Graphics_Lab\x64\Debug\Graphics_Lab.exe : fatal error LNK1169: one or more multiply defined symbols found
